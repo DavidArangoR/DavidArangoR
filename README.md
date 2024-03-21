@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @DavidArangoR
-- 🌱 I’m currently working as backend engineer using cloud technologies in Amazon Web Sevices and I have knowledge in some Azure services. I have expertice in python
-and SQL with a good understanding of javascript. I'm certificated as AWS Solutions Architect Associate and Okta professional.
-- 👀 I’m interested in projects where I can contributte as Electronic engineer either on software or hardware.
--  Would be great for me to collaborate on projects design giving my best support from backend and I'm highly interested on projects that integrate machine learning
-and computer vision. 
-
+👨‍💻 I'm a backend developer with a passion for crafting robust solutions in the cloud. While my expertise shines with AWS, I'm open to exploring other cloud providers, eager to expand my horizons. With a focus on Python, SQL, and basic JavaScript skills  I specialize in building scalable architectures that power dynamic applications. My proficiency extends to relational and non-relational databases, and I thrive on implementing infrastructure as code principles for seamless deployments. As I continue to evolve, I'm eager to explore the realms of artificial intelligence and cybersecurity, driven by an insatiable curiosity for innovation. 🚀
 <!---- 📫 How to reach me ...
 
 
